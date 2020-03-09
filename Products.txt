@@ -1,0 +1,11 @@
+<books>
+_romance
+*Pride and Prejudice,15.00,images/Pride_and_Prejudice.jpg
+*The Notebook,15.00,images/The_Notebook.jpg
+_horror
+*It,25.00,images/it.jpg
+*Doctor Sleep,25.00,images/Doctor_Sleep.jpg
+_learning
+*Java For Dummies jacket,12.00,images/Java_For_Dummies.jpg
+*Beginning Programming For Dummies,17.00,images/Beginning_Programming_For_Dummies.jpg
+</books>
